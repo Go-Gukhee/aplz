@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="myStyle.css">
+    <title>APLZ</title>
+</head>
+
+
+<body>
+
+    <div id="stickerContainer">
+        <div id="stickerIndexFlower1"></div>
+    </div>
+
+    <div>
+        <div id="stickerIndexGlitter1"></div>
+    </div>
+
+    <div id="stickerContainer">
+        <div id="stickerIndexGlitter2"></div>
+    </div>
+    
+    <div id="stickerContainer">
+        <div id="stickerIndexEyeSticker1"></div>
+    </div>
+
+    <div id="stickerContainer">
+        <div id="stickerIndexMiniAplz"></div>
+    </div>
+
+    <div id="stickerContainer">
+        <div id="stickerIndexLetterAori"></div>
+    </div>
+
+
+
+
+<div id="page_bgc">
+    <section class="row" >
+        <img id="mainImage" src="img/wallpaper.png" alt="wallpaper" >
+        <div id="mainTitle" ></div>
+            <p class="col-11 menu2" style="text-align:right;"><a href="page1.html" style=" text-decoration: none;">Apples</a></p>
+    </section>
+
+    <section class="row">
+        <img src="img/flower.png" alt="flower" id="indexFlowerImg">
+    <div class="col-12" style=" z-index: 1;">
+        <p class="text-Titan text-size-65pt text-align-center text-color-green " style=" text-shadow: 4px 4px rgb(96, 54, 26); z-index: 2;">
+            Here are some apples living in Korea. <br> Let’s meet them, <span class=" text-Titan text-size-65pt text-align-center text-color-red" style="text-shadow: 4px 4px rgb(11, 178, 54);"> APLZ!</span>
+        </p>
+    </div>
+    </section>
+
+    <section class="row" >
+        <img src="img/glitter.png" alt="glitter" style="width: 30px; position: absolute; margin-left: 20%; ">
+        <div class="col-10">
+            <p class="text-OneStore text-size-32pt text-align-left text-color-brown textHighlight" style="margin-top: 10%;" >
+                한국에서 자주 볼 수 있는 사과들이 여행을 떠났습니다! 
+            </p>
+        </div>
+    </section>
+
+    <section class="row">
+        <div class="col-6"></div>
+        <div class="col-6">
+            <p class="text-OneStore text-size-32pt text-align-left text-color-brown textHighlight2" style="margin-top: 25%;">
+                귀여운 애플즈와 만나보세요!  
+            </p>
+        </div>
+    </section>
+
+    <section class="row" style="margin-top: 30px; margin-bottom: 30px;">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <img src="img/letterRed.png" alt="letterRed" style="width: 100%; align-items: center;">
+        </div>
+        <div class="col-3"></div>
+    </section>
+
+
+</div>
+
+<section class="row footer" style="margin-top: 0px;">
+    <div class="col-10">
+    </div>
+    <div class="col-2">
+        <p>@copyright_cookie</p>
+    </div>
+</section>
+
+
+</body>
+</html>
